@@ -1,6 +1,7 @@
-# Leon 的 Feedly 订阅列表
-完整列表如下，也可直接下载 OPML 文件直接导入
+# Leon 的 RSS 订阅列表
+完整列表如下，也可直接下载 [OPML 文件](https://raw.githubusercontent.com/Anyway-Design/Leon-Gao-RSS/master/leon-rss.opml)直接导入
 
+___
 
 ## Designer
 * **Icoeye**  • [RSS](http://feeds2.feedburner.com/icoeye?format=xml)  • [URL](http://www.icoeye.com/blog)
